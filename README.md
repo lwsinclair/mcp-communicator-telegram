@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/qpd-v-mcp-communicator-telegram-badge.png)](https://mseep.ai/app/qpd-v-mcp-communicator-telegram)
+
 # MCP Communicator (Telegram)
 
 An MCP server that enables communication with users through Telegram. This server provides tools to interact with users via a Telegram bot, including asking questions, sending notifications, sharing files, and creating project archives.
